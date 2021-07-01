@@ -1,3 +1,5 @@
+![Visitor Count](https://profile-counter.glitch.me/{username}/count.svg)
+
 <strong>Auliyaur Rahman</strong>
 
 Seorang mahasiswa yang memiliki minat di bidang web developer khususnya backend programmer.<br>
