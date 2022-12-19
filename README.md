@@ -1,6 +1,6 @@
 <strong>Auliyaur Rahman</strong>
 
-Seorang mahasiswa yang berminat di bidang web developer.<br>
+Seorang <i>fresh graduate</i> yang berminat di bidang web developer.<br>
 Sedang mendalami Framework <i><b>Laravel</b></i> dan <i><b>Bootstrap</b></i>
 
 Portofolio : <a href="https://porto.berkasnovel.online" target="_blank">Click Here</a>
